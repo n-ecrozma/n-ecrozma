@@ -1,16 +1,14 @@
-## Hi there 👋
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
 
-<!--
-**n-ecrozma/n-ecrozma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Secondary account for: hxxps[://]github[.]com/TheBozzz34/ may she rest in peace.
 
-Here are some ideas to get you started:
+10/17/2026
+-----BEGIN PGP SIGNATURE-----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+iJEEARYKADkWIQQJUXleyyxt/YbfL3vy/jjlXYMqggUCavaeZBsUgAAAAAAEAA5t
+YW51MiwyLjUrMS4xMiwyLDEACgkQ8v445V2DKoJ5HAD9GtLFFSVdUoIvT0iHAFus
+kguwmkUm1CBOCuiR+AgXNR0A/1R4jVAnsJ70Hgkg1J5du1GWq2u4aG4yUAB2hrXv
+erAE
+=Q28z
+-----END PGP SIGNATURE-----
